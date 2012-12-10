@@ -11,7 +11,7 @@
 
 	$CurrentEnrollment = $XMLdoc->CurrentEnrollment;
 
-	$fullEnrollment == 65;
+	$fullEnrollment = 65;
 
 	//enrollment is full :(
 	if($CurrentEnrollment <= $fullEnrollment){
